@@ -2,5 +2,5 @@
 echo "hello";
 echo "new";
 echo "new";
-echooo "good";
+echo "good";
 ?>
