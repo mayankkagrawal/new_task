@@ -5,5 +5,5 @@ echo "new";
 echo "good";
 echo "byeeee";
 echo "byeeee";
-echo "newwww"
+echo "newwww";
 ?>
